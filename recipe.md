@@ -18,4 +18,4 @@ Learn how to make perfect baked potatoes! This recipe is simple and delicious
 7. Bake the potato for 45-60 minutes.
 
 ### Review
-  Finally Baked the Potato, it was Awesome. Everyone liked it.
+  Finally Baked the Potato, it was Awesome. Everyone liked .
