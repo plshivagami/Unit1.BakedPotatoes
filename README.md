@@ -1,3 +1,4 @@
+cls
 # Baked Potatoes
 
 Let's practice making changes in a local Git repository and syncing those changes to a remote repository on GitHub. By the end, you'll have a recipe for baked potatoes in your own GitHub repository!
